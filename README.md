@@ -1,3 +1,8 @@
+# Prerequisite
+
+`git clone https://github.com/graphprotocol/graph-node`
+`git clone https://github.com/graphprotocol/graph-client`
+
 # GRAPH NODE
 
 Use Docker to run a local graph node and connect it to a blockchain via RPC.
