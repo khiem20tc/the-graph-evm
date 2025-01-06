@@ -1,6 +1,7 @@
 # Prerequisite
 
 `git clone https://github.com/graphprotocol/graph-node`
+
 `git clone https://github.com/graphprotocol/graph-client`
 
 # GRAPH NODE
